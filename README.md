@@ -3,6 +3,4 @@
 
 ## 1.Learn and Understand NodeJS
 > a course in Udemy
-* [Note link]()
-* [demo-1]()
-* [demo-2]()
+* [Note link](https://github.com/benny201/Learning-Node.js/tree/master/Learn%20and%20Understand%20NodeJS/node-basis)
